@@ -1,1 +1,1 @@
-print("Hello eveoryone, V7")
+rint("Hello eveoryone, V7")
