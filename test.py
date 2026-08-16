@@ -1,1 +1,1 @@
-rint("Hello eveoryone, V7")
+int("Hello eveoryone, V7")
