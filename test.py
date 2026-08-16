@@ -1,1 +1,1 @@
-int("Hello eveoryone, V7")
+print("Hello eveoryone, V7")
